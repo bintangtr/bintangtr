@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Quirrel</h1>
+<h3 align="center">A wandering programmer from Indonesia</h3>
+<hr>
+<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/f445a549b493120cac18da3630e24e0b/tumblr_oyjnm18Dta1vz51c1o1_500.gifv"
 
-<!--
-**bintangtr/bintangtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><br></p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Laravel**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **quirrelcode@gmail.com**
+
+- *"Isn't this a wonderful spot for a rest? <br> I so love the sound of the rain upon glass"*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/bintang_tr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+</p>
