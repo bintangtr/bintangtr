@@ -18,12 +18,14 @@
 
 <p align="center">
   <a href="https://github.com/bintangtr">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bintangtr&theme=radical&border=7F3FBF&background=0D1117" alt="Quirrel's GitHub streak"/>
+    <img src="https://streak-stats.demolab.com?user=bintangtr&theme=transparent&border_radius=10&locale=id" alt="BintangTR's GitHub streak"/>
   </a>
 </p>
 
+
+
 <p align="center">
   <a href="https://github.com/bintangtr">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bintangtr&theme=radical" alt="Quirrel's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bintangtr&theme=transparent" alt="BintangTR's GitHub Contribution"/>
   </a>
 </p>
