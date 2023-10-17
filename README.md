@@ -1,31 +1,19 @@
 <h1 align="center">Hi 👋, I'm BintangTR</h1>
-<h3 align="center">PLaying some Games and do Programming</h3>
-<hr>
-<img align="right" alt="coding" width="400" src="https://i.kym-cdn.com/photos/images/newsfeed/001/443/777/6a0.gif"
+<h3 align="center">Mobile Developers from Indonesia</h3>
 
-<p align="left"><br></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bintangtr&label=Profile%20views&color=0e75b6&style=flat" alt="bintangtr" /> </p>
 
-- 🌱 I’m currently learning **FLutter/Dart**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bintangtr" alt="bintangtr" /></a> </p>
 
 - 📫 How to reach me **abindrabien@gmail.com**
 
-- *"Isn't this a wonderful spot for a rest? <br> I so love the sound of the rain upon glass"*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/bintang_tr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bintang tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bintang tr" height="30" width="40" /></a>
+<a href="https://instagram.com/bintang_tr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bintang_tr17" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bintang_tr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bintang_tr17" height="30" width="40" /></a>
+<a href="https://discord.gg/bintang_tr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bintang_tr17" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/bintangtr">
-    <img src="https://streak-stats.demolab.com?user=bintangtr&theme=transparent&border_radius=10&locale=id" alt="BintangTR's GitHub streak"/>
-  </a>
-</p>
-
-
-
-<p align="center">
-  <a href="https://github.com/bintangtr">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bintangtr&theme=transparent" alt="BintangTR's GitHub Contribution"/>
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
